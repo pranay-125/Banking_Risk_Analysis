@@ -102,7 +102,7 @@ CSV → Structured dataset storage
 
 Clone the repository:
 
-git clone https://github.com/pranay-125/banking-risk-analysis.git
+git clone https://github.com/pranay-125/banking_risk_analysis.git
 cd banking-risk-analysis
 
 

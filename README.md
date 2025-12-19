@@ -52,19 +52,19 @@ Risk Factor Evaluation → Insights on how different financial behaviors contrib
 
 **📑 Key Insights**
 
-Deposits & Savings Behavior
+Deposits & Savings Behavior:
 
 Customers with high bank deposits also maintain significant balances in savings, checking, and foreign currency accounts.
 
-Income, Age, and Financial Growth
+Income, Age, and Financial Growth:
 
 Older and higher-income customers generally accumulate larger savings, loans, and credit card balances.
 
-Property Ownership
+Property Ownership:
 
 Weak correlation with banking metrics → likely driven by external market factors.
 
-Business vs. Personal Banking
+Business vs. Personal Banking:
 
 Business lending is correlated with loans but behaves differently from deposits/savings, suggesting a distinct customer segment.
 
@@ -117,18 +117,6 @@ Install Power BI Desktop
 .
 
 Open Banking Dashboard.pbix.
-
-
-
-**🔮 Future Enhancements**
-
-Build a predictive model for customer risk scoring
-
-Automate data ingestion & reporting pipelines
-
-Integrate real-time dashboards with streaming financial data
-
-Explore clustering & segmentation for customer profiling
 
 
 
